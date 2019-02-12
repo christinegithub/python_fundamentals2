@@ -6,4 +6,6 @@
 def double(my_number):
     return my_number * 2
 
-double(10)
+print(double(13))
+
+print(double(-50))

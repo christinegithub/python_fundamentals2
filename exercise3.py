@@ -8,3 +8,12 @@ def is_even(num):
         return True
     else:
         return False
+
+
+print(is_even(46))
+
+print(is_even(5333333))
+
+print(is_even(-5))
+
+print(is_even(-100))

@@ -9,3 +9,10 @@ def negative(num):
         return True
     else:
         return False
+
+
+print(negative(107))
+
+print(negative(0))
+
+print(negative(-76))
